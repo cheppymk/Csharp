@@ -1,0 +1,15 @@
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\bin\Debug\net6.0\EXERCISE5.exe
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\bin\Debug\net6.0\EXERCISE5.deps.json
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\bin\Debug\net6.0\EXERCISE5.runtimeconfig.json
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\bin\Debug\net6.0\EXERCISE5.dll
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\bin\Debug\net6.0\EXERCISE5.pdb
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\obj\Debug\net6.0\EXERCISE5.csproj.AssemblyReference.cache
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\obj\Debug\net6.0\EXERCISE5.GeneratedMSBuildEditorConfig.editorconfig
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\obj\Debug\net6.0\EXERCISE5.AssemblyInfoInputs.cache
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\obj\Debug\net6.0\EXERCISE5.AssemblyInfo.cs
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\obj\Debug\net6.0\EXERCISE5.csproj.CoreCompileInputs.cache
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\obj\Debug\net6.0\EXERCISE5.dll
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\obj\Debug\net6.0\refint\EXERCISE5.dll
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\obj\Debug\net6.0\EXERCISE5.pdb
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\obj\Debug\net6.0\EXERCISE5.genruntimeconfig.cache
+D:\github repository\Csharp\CsharpBasic\SEDC.ClassExercises\EXERCISE5\obj\Debug\net6.0\ref\EXERCISE5.dll
