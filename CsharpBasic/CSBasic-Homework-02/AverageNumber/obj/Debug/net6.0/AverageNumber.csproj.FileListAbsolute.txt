@@ -1,0 +1,15 @@
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\bin\Debug\net6.0\AverageNumber.exe
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\bin\Debug\net6.0\AverageNumber.deps.json
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\bin\Debug\net6.0\AverageNumber.runtimeconfig.json
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\bin\Debug\net6.0\AverageNumber.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\bin\Debug\net6.0\AverageNumber.pdb
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.AssemblyReference.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\obj\Debug\net6.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfoInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfo.cs
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.CoreCompileInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\obj\Debug\net6.0\AverageNumber.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\obj\Debug\net6.0\refint\AverageNumber.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\obj\Debug\net6.0\AverageNumber.pdb
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\obj\Debug\net6.0\AverageNumber.genruntimeconfig.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-02\AverageNumber\obj\Debug\net6.0\ref\AverageNumber.dll

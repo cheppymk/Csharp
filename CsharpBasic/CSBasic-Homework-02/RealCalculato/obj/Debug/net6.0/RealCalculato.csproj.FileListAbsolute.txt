@@ -1,0 +1,15 @@
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\bin\Debug\net6.0\RealCalculato.exe
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\bin\Debug\net6.0\RealCalculato.deps.json
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\bin\Debug\net6.0\RealCalculato.runtimeconfig.json
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\bin\Debug\net6.0\RealCalculato.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\bin\Debug\net6.0\RealCalculato.pdb
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\obj\Debug\net6.0\RealCalculato.csproj.AssemblyReference.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\obj\Debug\net6.0\RealCalculato.GeneratedMSBuildEditorConfig.editorconfig
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\obj\Debug\net6.0\RealCalculato.AssemblyInfoInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\obj\Debug\net6.0\RealCalculato.AssemblyInfo.cs
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\obj\Debug\net6.0\RealCalculato.csproj.CoreCompileInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\obj\Debug\net6.0\RealCalculato.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\obj\Debug\net6.0\refint\RealCalculato.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\obj\Debug\net6.0\RealCalculato.pdb
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\obj\Debug\net6.0\RealCalculato.genruntimeconfig.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-01\RealCalculato\obj\Debug\net6.0\ref\RealCalculato.dll
