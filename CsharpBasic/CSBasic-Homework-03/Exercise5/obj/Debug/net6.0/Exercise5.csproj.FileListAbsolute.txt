@@ -1,0 +1,15 @@
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\bin\Debug\net6.0\Exercise5.exe
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\bin\Debug\net6.0\Exercise5.deps.json
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\bin\Debug\net6.0\Exercise5.runtimeconfig.json
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\bin\Debug\net6.0\Exercise5.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\bin\Debug\net6.0\Exercise5.pdb
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\obj\Debug\net6.0\Exercise5.csproj.AssemblyReference.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\obj\Debug\net6.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfoInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfo.cs
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\obj\Debug\net6.0\Exercise5.csproj.CoreCompileInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\obj\Debug\net6.0\Exercise5.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\obj\Debug\net6.0\refint\Exercise5.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\obj\Debug\net6.0\Exercise5.pdb
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\obj\Debug\net6.0\Exercise5.genruntimeconfig.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Exercise5\obj\Debug\net6.0\ref\Exercise5.dll
