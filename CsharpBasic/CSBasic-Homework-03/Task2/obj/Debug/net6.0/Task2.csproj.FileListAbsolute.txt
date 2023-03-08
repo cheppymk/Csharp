@@ -1,0 +1,15 @@
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\bin\Debug\net6.0\Task2.exe
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\bin\Debug\net6.0\Task2.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\bin\Debug\net6.0\Task2.pdb
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\obj\Debug\net6.0\Task2.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\obj\Debug\net6.0\Task2.pdb
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\Task2\obj\Debug\net6.0\ref\Task2.dll
