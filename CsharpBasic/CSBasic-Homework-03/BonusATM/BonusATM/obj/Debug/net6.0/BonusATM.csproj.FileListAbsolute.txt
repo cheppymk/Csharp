@@ -1,0 +1,15 @@
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\obj\Debug\net6.0\BonusATM.csproj.AssemblyReference.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\obj\Debug\net6.0\BonusATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\obj\Debug\net6.0\BonusATM.AssemblyInfoInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\obj\Debug\net6.0\BonusATM.AssemblyInfo.cs
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\obj\Debug\net6.0\BonusATM.csproj.CoreCompileInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\bin\Debug\net6.0\BonusATM.exe
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\bin\Debug\net6.0\BonusATM.deps.json
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\bin\Debug\net6.0\BonusATM.runtimeconfig.json
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\bin\Debug\net6.0\BonusATM.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\bin\Debug\net6.0\BonusATM.pdb
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\obj\Debug\net6.0\BonusATM.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\obj\Debug\net6.0\refint\BonusATM.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\obj\Debug\net6.0\BonusATM.pdb
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\obj\Debug\net6.0\BonusATM.genruntimeconfig.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-03\BonusATM\BonusATM\obj\Debug\net6.0\ref\BonusATM.dll
