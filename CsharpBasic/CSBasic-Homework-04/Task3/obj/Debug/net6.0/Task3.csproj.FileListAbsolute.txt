@@ -1,0 +1,15 @@
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\bin\Debug\net6.0\Task3.exe
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\bin\Debug\net6.0\Task3.deps.json
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\bin\Debug\net6.0\Task3.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\bin\Debug\net6.0\Task3.pdb
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\obj\Debug\net6.0\Task3.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\obj\Debug\net6.0\refint\Task3.dll
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\obj\Debug\net6.0\Task3.pdb
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+D:\github repository\Csharp\CsharpBasic\CSBasic-Homework-04\Task3\obj\Debug\net6.0\ref\Task3.dll
