@@ -1,0 +1,17 @@
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\bin\Debug\net6.0\Exercise01.exe
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\bin\Debug\net6.0\Exercise01.deps.json
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\bin\Debug\net6.0\Exercise01.runtimeconfig.json
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\bin\Debug\net6.0\Exercise01.dll
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\bin\Debug\net6.0\Exercise01.pdb
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\obj\Debug\net6.0\Exercise01.csproj.AssemblyReference.cache
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\obj\Debug\net6.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\obj\Debug\net6.0\Exercise01.AssemblyInfoInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\obj\Debug\net6.0\Exercise01.AssemblyInfo.cs
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\obj\Debug\net6.0\Exercise01.csproj.CoreCompileInputs.cache
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\obj\Debug\net6.0\Exercise01.csproj.CopyComplete
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\obj\Debug\net6.0\Exercise01.dll
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\obj\Debug\net6.0\refint\Exercise01.dll
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\obj\Debug\net6.0\Exercise01.pdb
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\obj\Debug\net6.0\Exercise01.genruntimeconfig.cache
+D:\github repository\Csharp\CsharpBasic\CSAdvance-SEDC.ClassExercises1\Exercise01\obj\Debug\net6.0\ref\Exercise01.dll
