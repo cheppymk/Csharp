@@ -35,8 +35,11 @@ PrintAllDogs(filePath);
 
     if (File.Exists(filePath))
     {
-        string existingJson = File.ReadAllText(filePath);
-        dogs = JsonConvert.DeserializeObject<List<Dog>>(existingJson) ?? new List<Dog>();
+        using (StreamReader reader = new StreamReader(filePath))
+        {
+            string existingJson = reader.ReadToEnd();
+            dogs = JsonConvert.DeserializeObject<List<Dog>>(existingJson) ?? new List<Dog>();
+        }
     }
     else
     {
@@ -46,14 +49,22 @@ PrintAllDogs(filePath);
     dogs.Add(dog);
 
     string json = JsonConvert.SerializeObject(dogs, Formatting.Indented);
-    File.WriteAllText(filePath, json);
+
+    using (StreamWriter writer = new StreamWriter(filePath))
+    {
+        writer.Write(json);
+    }
 }
 
 static void PrintAllDogs(string filePath)
 {
     if (File.Exists(filePath))
     {
-        string json = File.ReadAllText(filePath);
+        string json;
+        using (StreamReader reader = new StreamReader(filePath))
+        {
+            json = reader.ReadToEnd();
+        }
         List<Dog> dogs = JsonConvert.DeserializeObject<List<Dog>>(json);
 
         Console.WriteLine("Dogs:");
